@@ -2,7 +2,7 @@
 
 A simple Ash (practically "BusyBox bash") script designed to run on the Synology DS range of file storage servers to backup all repositories (and wikis) for a user from Github.
 
-## Running
+## Install
 
 1. Ensure you have `git` installed on the Synology - this can be download from the [SynoCommunity](https://synocommunity.com/). The script also needs cUrl and [jq](https://stedolan.github.io/jq/) but these seem standard on Synologys.
 
